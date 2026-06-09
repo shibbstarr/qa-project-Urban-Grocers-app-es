@@ -4,15 +4,7 @@ venv/
 .pytest_cache/
 __pycache__/
 .DS_Store
-
 ```text
-# Caché de ejecución de Python y Pytest
-
 *.pyc
-
-
-# Carpetas de configuración local del entorno y del IDE
-
 .vscode/
-
 .env/

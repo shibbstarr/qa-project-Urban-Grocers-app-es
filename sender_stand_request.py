@@ -3,7 +3,7 @@ import configuration
 import data
 
 
-# Función para registrar un nuevo usuario y obtener la respuesta de la API
+
 def post_new_user(user_body):
     return requests.post(
         configuration.URL_SERVICE + configuration.CREATE_USER_PATH,
