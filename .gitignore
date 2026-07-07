@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python compilado
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+
